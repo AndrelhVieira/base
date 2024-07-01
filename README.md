@@ -22,7 +22,7 @@ The primary purpose of this repository is to store and manage all the discussion
 ## How to Participate
 
 1. **On the Blog**: Visit any blog post on [my blog](https://andreluizv.dev.br/blog) and scroll to the discussion section powered by Giscus. You can log in with your GitHub account to leave a comment or ask a question.
-2. **On GitHub**: Navigate to the [Discussions](https://github.com/YourUsername/YourRepository/discussions) section of this repository. Here, you can start a new discussion or join an existing one.
+2. **On GitHub**: Navigate to the [Discussions]([https://github.com/YourUsername/YourRepository/discussions](https://github.com/AndrelhVieira/blog_discuss_base/discussions)) section of this repository. Here, you can start a new discussion or join an existing one.
 
 ## Additional Information
 
